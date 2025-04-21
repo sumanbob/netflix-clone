@@ -1,0 +1,12 @@
+{
+  "name": "netflix-clone-main",
+  "version": "1.0.0",
+  "description": "A Netflix clone crafted using pure HTML and CSS. An exercise in frontend design, capturing the essence and aesthetics of Netflix's user interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
